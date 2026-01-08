@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started Rhythmiq as the technical founder. Working on AI agents for customer support.
+Started [Rhythmiq](https://rhythmiqcx.com) as the technical founder. Working on AI agents for customer support.
