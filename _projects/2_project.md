@@ -5,7 +5,7 @@ description: A low-latency voice AI system built on LiveKit, delivering sub-seco
 img: assets/img/voice-ai.png
 importance: 1
 category: work
-date: 2024-06-01
+date: 2026-01-01
 permalink: /projects/voice-ai-livekit/
 mermaid:
   enabled: true

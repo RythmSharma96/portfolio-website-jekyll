@@ -689,6 +689,14 @@ footer.sticky-bottom {
   .card {
     img {
       width: 100%;
+      height: 200px;
+      object-fit: cover;
+      object-position: center;
+    }
+    
+    // Project 3 image - align from top
+    img[src*="chatbot"] {
+      object-position: top;
     }
   }
 
