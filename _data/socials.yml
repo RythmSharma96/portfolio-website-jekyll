@@ -53,7 +53,7 @@ linkedin_username: rythmsharma # your LinkedIn user name
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 google_search: # Google search for site:rhythmiqcx.com
-  logo: https://www.google.com/favicon.ico # can be png, svg, jpg
+  logo: https://fonts.gstatic.com/s/i/productlogos/googleg/v6/24px.svg # SVG Google logo - scales without pixelation
   title: Google Search
   url: https://www.google.com/search?q=site:rhythmiqcx.com
 rhythmiq_logo: # Rhythmiq logo
