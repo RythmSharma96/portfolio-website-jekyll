@@ -4,8 +4,8 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 3
-cv_pdf: example_pdf.pdf # you can also use external links here
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+cv_pdf: RythmResume2026-2.pdf # you can also use external links here
+description: This is my cv, you can also click on the PDF logo to download it.
 toc:
   sidebar: left
 ---
