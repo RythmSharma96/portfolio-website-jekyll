@@ -6,6 +6,7 @@ description: A deep dive into building a production-ready Voice AI system with L
 tags: ai voice-ai llm telephony
 categories: engineering
 redirect: /projects/voice-ai-livekit/
+read_time: 8
 ---
 
 <!-- Add your content here -->
