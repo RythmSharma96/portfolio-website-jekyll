@@ -1,6 +1,10 @@
 {
-  "buildCommand": "export LANG=en_US.UTF-8 && export LC_ALL=en_US.UTF-8 && bundle install && bundle exec jekyll build",
+  "buildCommand": "bundle install && bundle exec jekyll build",
   "outputDirectory": "_site",
   "installCommand": "bundle install",
-  "framework": null
+  "framework": null,
+  "env": {
+    "LANG": "en_US.UTF-8",
+    "LC_ALL": "en_US.UTF-8"
+  }
 }
